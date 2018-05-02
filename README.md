@@ -1,5 +1,7 @@
 # GPvesseltracking
-Tracking and diameter estimation of 2D blood vessels using Gaussian Process 
+Tracking and diameter estimation of blood vessels using Gaussian process and Radon transform
+keywords: retinal segmentation, blood vessel tracking, Gaussian process, Radon transform, 
+vascular bifurcation detection, diameter estimation
 
 This script track center points and diameter of blood vessels, which is 
 an ongoing challenge in medical image analysis. We hypothesize that the 
