@@ -18,7 +18,6 @@ Imaging 4.3 (2017): 034006.
 
 This algorithm is the result of many hours of work and problem solving.
 Please cite the above paper in case you find the script useful in your 
-own research. I might be able to help you with your queries, if you send 
-me (Masoud Elhami Asl) an email to: masoudelhamiasl@gmail.com
+own research. 
 
 Developed and Copyrighted by Masoud Elhami Asl (2017)
